@@ -1,0 +1,143 @@
+@media screen and (min-width:0px) and (max-width:768px)
+{
+    .intro{display: block;}
+    .left{width: 100%; margin: 50px 0;}
+    .right{width: 100%; margin: 50px 0;}
+    .numbers{display: block;}
+    .num{width: 100%;border-right: none;border-bottom: solid rgba(169, 169, 169, 0.3) 2px; padding: 20px 0;}
+
+/*____________________________________________________________________*/
+
+    .services{display: block;}
+    .ser{width: 100%;margin-bottom: 20px;}
+/*____________________________________________________________________*/
+    .cont-one{display: block;}   
+    .one{width: 100%;margin: 100px 0;} 
+    .two{width: 100%;margin: 100px 0;} 
+    .mar-two{padding: 0;}
+    .mar-one{padding: 0;}
+    .date{width: 30%;}
+    
+    .cont-two{display: block;} 
+    .skills{width: 100%;}
+    .skills{margin-bottom:20px;}
+    .resume-btn{width: 100%;}
+    /*____________________________________________________________________*/
+
+    .works{display: block;}
+    .work-right{width: 100%;}
+    .work-mid{width: 100%;}
+    .work-left{width: 100%;}
+/*____________________________________________________________________*/
+
+    .comments{display: block;}
+    .comm-right{width: 100%; padding: 0; margin: 20px 0;}
+    .comm-left{width: 100%; padding: 0; margin: 20px 0;}
+/*____________________________________________________________________*/
+    .info
+    { display: block;}
+    .address{width: 100%; margin: 50px 0;}
+    .sign{width: 100%; margin: 50px 0;}
+    .me-50{ padding: 0;}
+    .ms-50{ padding: 0;}
+/*____________________________________________________________________*/
+    .footer{display: block;font-size: 14px;}
+    .footer a{ font-size: 14px !important;}
+}
+
+
+
+@media screen and (min-width:769px) and (max-width:992px)
+{
+    .font-smaller a
+    {
+        font-size: 15px !important;
+    }
+
+    .intro{display: block;}
+    .left{width: 100%; margin: 50px 0;}
+    .right{width: 100%; margin: 50px 0;}
+    .numbers{display: flex; flex-wrap: wrap;}
+    .num{width: 50%;border-right: none;border-right: solid rgba(169, 169, 169, 0.3) 2px; padding: 20px 0;}
+
+/*____________________________________________________________________*/
+
+    .services{display: block;}
+    .ser{width: 100%;margin-bottom: 20px;}
+/*____________________________________________________________________*/
+    .cont-one{display: block;}   
+    .one{width: 100%;margin: 100px 0;} 
+    .two{width: 100%;margin: 100px 0;} 
+    .mar-two{padding: 0;}
+    .mar-one{padding: 0;}
+    .date{width: 30%;}
+    
+    .cont-two{display: block;} 
+    .skills{width: 100%;}
+    .skills{margin-bottom:20px;}
+    .resume-btn{width: 100%;}
+    /*____________________________________________________________________*/
+
+    .works{display: block;}
+    .work-right{width: 100%;}
+    .work-mid{width: 100%;}
+    .work-left{width: 100%;}
+/*____________________________________________________________________*/
+
+    .comments{display: block;}
+    .comm-right{width: 100%; padding: 0; margin: 20px 0;}
+    .comm-left{width: 100%; padding: 0; margin: 20px 0;}
+/*____________________________________________________________________*/
+    .info
+    { display: block;}
+    .address{width: 100%; margin: 50px 0;}
+    .sign{width: 100%; margin: 50px 0;}
+    .me-50{ padding: 0;}
+    .ms-50{ padding: 0;}
+/*____________________________________________________________________*/
+    .footer{display: block;font-size: 14px;}
+    .footer a{ font-size: 14px !important;}
+
+}
+
+@media screen and (min-width:993px) and (max-width:1200px)
+{
+}
+@keyframes typing 
+{
+        0%{content: " D|";} 
+        3%{content: " De|";}
+        6%{content: " Dev|";}
+        9%{content: " Deve|";}
+        12%{content: " Devel|";}
+        15%{content: " Develo|";}
+        18%{content: " Develop|";}   
+        21%{content: " Develope|";}   
+        24%{content: " Developer|";}  
+        27%{content: " Developer|";} 
+        30%{content: " Developer|";} 
+        33%{content: " Develope|";}   
+        36%{content: " Develop|";}   
+        39%{content: " Develo|";}
+        42%{content: " Devel|";}
+        45%{content: " Deve|";}
+        48%{content: " Dev|";}
+        51%{content: " De|";}
+        54%{content: " D|";}
+        60%{content:  " D|";} 
+        63%{content:  " De|";}
+        66%{content: " Des|";}
+        69%{content: " Desi|";}
+        72%{content: " Desig|";}
+        74%{content: " Design|";}
+        77%{content: " Designe|";}   
+        80%{content: " Designer|";}   
+        82%{content: " Designer|";}  
+        85%{content: " Designe|";} 
+        88%{content: " Design|";} 
+        90%{content: " Desig|";}   
+        93%{content: " Desi|";}   
+        95%{content: " Des|";}
+        97%{content: " De|";}
+        100%{content: " D|";}
+}
